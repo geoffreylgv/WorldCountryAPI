@@ -1,7 +1,7 @@
 # world countries api
-### Global Hack Week MLH
+## Global Hack Week MLH
 
-**### The API provides the following functionalities:**
+**The API provides the following functionalities:**
 
 ##### Get a list of all countries:
 
@@ -38,3 +38,7 @@ alpha2: The two-letter code assigned to each country.<br>
 alpha3: The three-letter code assigned to each country.<br>
 
 <quote>The entity also includes standard JPA annotations for defining the mapping to the database table and managing the persistence of the entity instances. The Lombok library is used to generate getters, setters, equals and hashcode methods for the entity class.</quote>
+
+## How to use locally
+1. Download the repos, 2. make sure to update the application.propertie in resources folder 3. make a clean and build and 4. run <br>
+Insert country's data into countries table; that's all. With love, thanks you for reading. ^_^
