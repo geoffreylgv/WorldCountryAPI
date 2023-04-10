@@ -14,7 +14,7 @@ If you encounter any issues while using the API, please report them by opening a
 
 **Contributing**
 
-We welcome contributions to the World Countries API! If you would like to contribute to the API, please see our [contribution guidelines](https://github.com/geoffreylgv/API-world_countries/blob/main/CONTRIBUTING.md) for more information.
+We welcome contributions to the World Countries API! If you would like to contribute to the API.
 
 **License**
 
