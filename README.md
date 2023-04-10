@@ -29,6 +29,7 @@ The API is implemented using Spring Boot and utilizes the JPA/Hibernate framewor
 
 **Full Changelog**: https://github.com/geoffreylgv/API-world_countries/commits/v1.0.0
 
+[<img src="https://i3.ytimg.com/vi/3M6ogLK_I-4/maxresdefault.jpg" width="100%">](https://www.youtube.com/watch?v=3M6ogLK_I-4 "Video on youtube, soon the API on Azure Functio APP")
 
 id: A unique identifier for each country.<br>
 code: A unique code assigned to each country.<br>
