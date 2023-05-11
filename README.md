@@ -2,7 +2,11 @@
 
   [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.png)](https://github.com/firstcontributions/open-source-badges) 
 [![MIT Licence](https://firstcontributions.github.io/open-source-badges/badges/licence-mit/mit.svg)](https://opensource.org/licenses/mit-license.php)
-
+<img src="https://img.shields.io/github/last-commit/geoffreylgv/API-world_countries"/>
+## Running principal route for the api
+```bash
+  localhost:8090/country/api/v1
+```
 ## Global Hack Week MLH : API Days contribution
 
 **The API provides the following functionalities:**
