@@ -1,5 +1,9 @@
 # world countries api
-## Global Hack Week MLH
+
+  [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.png)](https://github.com/firstcontributions/open-source-badges) 
+[![MIT Licence](https://firstcontributions.github.io/open-source-badges/badges/licence-mit/mit.svg)](https://opensource.org/licenses/mit-license.php)
+
+## Global Hack Week MLH : API Days contribution
 
 **The API provides the following functionalities:**
 
