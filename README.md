@@ -1,5 +1,21 @@
 # world countries api
-## Global Hack Week MLH
+
+ [![GitHub license](https://img.shields.io/github/license/geoffreylgv/API-world_countries.svg)](https://github.com/geoffreylgv/API-world_countries/blob/main/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/geoffreylgv/API-world_countries.svg)](https://GitHub.com/geoffreylgv/API-world_countries/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/geoffreylgv/API-world_countries.svg)](https://GitHub.com/geoffreylgv/API-world_countries/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/geoffreylgv/API-world_countries.svg)](https://GitHub.com/geoffreylgv/API-world_countries/pulls/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+![MIT Licence](https://img.shields.io/github/last-commit/geoffreylgv/API-world_countries)
+
+[![GitHub watchers](https://img.shields.io/github/watchers/geoffreylgv/API-world_countries.svg?style=social&label=Watch)](https://GitHub.com/geoffreylgv/API-world_countries/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/geoffreylgv/API-world_countries.svg?style=social&label=Fork)](https://GitHub.com/geoffreylgv/API-world_countries/network/)
+[![GitHub stars](https://img.shields.io/github/stars/geoffreylgv/API-world_countries.svg?style=social&label=Star)]([https://GitHub.com/geoffreylgv/API-world_countries/stargazers/](https://img.shields.io/github/last-commit/geoffreylgv/API-world_countries))
+
+## Running principal route for the api
+```bash
+  localhost:8090/country/api/v1
+```
+## Global Hack Week MLH : API Days contribution
 
 **The API provides the following functionalities:**
 
