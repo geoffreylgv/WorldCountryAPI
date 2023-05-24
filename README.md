@@ -4,7 +4,6 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/geoffreylgv/API-world_countries.svg)](https://GitHub.com/geoffreylgv/API-world_countries/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/geoffreylgv/API-world_countries.svg)](https://GitHub.com/geoffreylgv/API-world_countries/issues/)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/geoffreylgv/API-world_countries.svg)](https://GitHub.com/geoffreylgv/API-world_countries/pulls/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ![MIT Licence](https://img.shields.io/github/last-commit/geoffreylgv/API-world_countries)
 
 [![GitHub watchers](https://img.shields.io/github/watchers/geoffreylgv/API-world_countries.svg?style=social&label=Watch)](https://GitHub.com/geoffreylgv/API-world_countries/watchers/)
