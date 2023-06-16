@@ -1,20 +1,37 @@
-# world countries api
+## Open Source Programs
+<p>Pragrams are more than welcome </p>
+ <a href="https://ghw.mlh.io/events/api-week">
+ <img width="800" alt="GHW API Days" src="https://github.com/geoffreylgv/API-world_countries/assets/52314615/8b72db59-ca8c-4942-b5ca-65c7211c4a58">
+ </a>
 
- [![GitHub license](https://img.shields.io/github/license/geoffreylgv/API-world_countries.svg)](https://github.com/geoffreylgv/API-world_countries/blob/main/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/geoffreylgv/API-world_countries.svg)](https://GitHub.com/geoffreylgv/API-world_countries/graphs/contributors/)
-[![GitHub issues](https://img.shields.io/github/issues/geoffreylgv/API-world_countries.svg)](https://GitHub.com/geoffreylgv/API-world_countries/issues/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/geoffreylgv/API-world_countries.svg)](https://GitHub.com/geoffreylgv/API-world_countries/pulls/)
-![MIT Licence](https://img.shields.io/github/last-commit/geoffreylgv/API-world_countries)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/geoffreylgv/API-world_countries.svg?style=social&label=Watch)](https://GitHub.com/geoffreylgv/API-world_countries/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/geoffreylgv/API-world_countries.svg?style=social&label=Fork)](https://GitHub.com/geoffreylgv/API-world_countries/network/)
-[![GitHub stars](https://img.shields.io/github/stars/geoffreylgv/API-world_countries.svg?style=social&label=Star)]([https://GitHub.com/geoffreylgv/API-world_countries/stargazers/](https://img.shields.io/github/last-commit/geoffreylgv/API-world_countries))
+# WorldCountryAPI
+<p>About the project:</p>
+<p>
+    <img src="https://img.shields.io/github/issues/geoffreylgv/WorldCountryAPI"> 
+    <img src="https://img.shields.io/github/issues-pr/geoffreylgv/WorldCountryAPI">
+    <img src="https://img.shields.io/github/forks/geoffreylgv/WorldCountryAPI">
+    <img src="https://img.shields.io/github/stars/geoffreylgv/WorldCountryAPI">
+    <img src="https://img.shields.io/github/license/geoffreylgv/WorldCountryAPI">
+    <img src="https://img.shields.io/github/contributors/geoffreylgv/WorldCountryAPI">
+    <img src="https://img.shields.io/github/last-commit/geoffreylgv/WorldCountryAPI">
+    <img src="https://img.shields.io/github/watchers/geoffreylgv/WorldCountryAPI">
+</p>
 
-## Running principal route for the api
+<p>Tech Stack:</p>
+<p>
+    <img src="https://img.shields.io/badge/java-%D0A384.svg?style=for-the-badge&logo=oracle&logoColor=white"> 
+    <img src="https://img.shields.io/badge/springboot-%233372B6.svg?style=for-the-badge&logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-FFFFFFFF.svg?style=for-the-badge&logo=mysql&logoColor=black">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</p>
+
+## Documentation
+
+### Running principal route for the API
 ```bash
   localhost:8090/country/api/v1
 ```
-## Global Hack Week MLH : API Days contribution
 
 **The API provides the following functionalities:**
 
@@ -39,11 +56,12 @@ Response: A JSON array containing all the countries whose name (in French or Eng
 
 `Request: GET /countries/search?q={query}`
 
-Response: A JSON array containing all the countries who's any attribute contains the specified search term, along with their respective ID, code, name (in French and English), alpha2 and alpha3 codes.
-The API is implemented using Spring Boot and utilizes the JPA/Hibernate framework for data persistence. The data model is represented by the "Country" entity, which is mapped to a database table called "COUNTRIES". The entity has the following attributes:
+Response: A JSON array containing all the countries whose attribute contains the specified search term, their respective ID, code, name (in French and English), and alpha2 and alpha3 codes.
+The API is implemented using Spring Boot and utilizes the JPA/Hibernate framework for data persistence. The "Country" entity represents the data model, which is mapped to a database table called "COUNTRIES". The entity has the following attributes:
 
 **Full Changelog**: https://github.com/geoffreylgv/API-world_countries/commits/v1.0.0
 
+##### Demo video
 [<img src="https://i3.ytimg.com/vi/3M6ogLK_I-4/maxresdefault.jpg" width="100%">](https://www.youtube.com/watch?v=3M6ogLK_I-4 "Video on youtube, soon the API on Azure Functio APP")
 
 id: A unique identifier for each country.<br>
@@ -57,8 +75,8 @@ alpha3: The three-letter code assigned to each country.<br>
 
 ## How to use locally
 1. Download the repos, 
-2. make sure to update the application.propertie in resources folder 
+2. make sure to update the application.propertie in the resources folder 
 3. make a clean and build and 
 4. run <br>
 
->Insert country's data into countries table; that's all. With love, thanks you for reading. ^_^
+>Insert the country's data into the countries table; that's all. With love, thank you for reading. ^_^
